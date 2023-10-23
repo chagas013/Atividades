@@ -18,13 +18,31 @@ p{
     text-indent: 30px;    
     font-family:Arial, Helvetica, sans-serif;
     margin-top: 3%;
-    font-weight: bolder;    
+    font-weight: bolder; 
+    line-height: 20px;
 }
 
-#linha1{
+#linha1, #linha2{
     padding-bottom: 15px;
     border-bottom: dashed;
     border-color:#b66f12;
     border-width: 3px;   
+}
+
+h2{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #775f3f;
+    font-size: 30px;
+    font-weight: bolder;
+    margin-top: 3%;
+}
+
+h3{
+    font-family: Arial, Helvetica, sans-serif;
+    color: #fff;
+    background-color: #b66f12;
+    font-weight: bolder;
+    margin-top: 3%;    
+    padding: 5px;
 }
 
